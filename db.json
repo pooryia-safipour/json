@@ -12,7 +12,8 @@
           "name": "Diablo IV",
           "title": "Diablo® IV: Ultimate Edition",
           "yellowContent": [],
-          "content": "Action RPG"
+          "content": "Action RPG",
+          "description": "Diablo®️ IV is the ultimate action RPG experience with endless evil to slaughter, countless abilities to master, nightmarish dungeons, and legendary loot. Embark on the campaign solo or with friends, meeting memorable characters through beautifully dark settings and a gripping story, or explore an expansive end game and shared world where players can meet in towns to trade, team up to battle world bosses, or descend into PVP zones to test their skills against other players – no lobbies necessary – with cross-play and cross-progression on all available platforms."
         },
         {
           "id": 2,
@@ -22,7 +23,8 @@
           "name": "BlizzCon",
           "title": "BlizzCon® Collection",
           "yellowContent": [],
-          "content": "In-Game Content"
+          "content": "In-Game Content",
+          "description": "Celebrate the return of BlizzCon®️ with a bountiful collection of digital goodies and in-game items.  These packs are a must-have for any player journeying through the immersive worlds of World of Warcraft®️, Diablo®️ IV, Overwatch®️ 2, Hearthstone®️ and Warcraft Rumble™️. Whether you’re a seasoned hero or just starting your adventure, don’t miss out on these iconic items and enhancements to your gameplay experience!"
         },
         {
           "id": 3,
@@ -37,7 +39,8 @@
               "contyellow": "Get the Premium Battle pass - featuring 90 tiers of rewards!"
             }
           ],
-          "content": "In-Game Content"
+          "content": "In-Game Content",
+          "description": "Diablo®️ IV is the ultimate action RPG experience with endless evil to slaughter, countless abilities to master, nightmarish dungeons, and legendary loot. Embark on the campaign solo or with friends, meeting memorable characters through beautifully dark settings and a gripping story, or explore an expansive end game and shared world where players can meet in towns to trade, team up to battle world bosses, or descend into PVP zones to test their skills against other players – no lobbies necessary – with cross-play and cross-progression on all available platforms."
         },
         {
           "id": 4,
@@ -47,7 +50,8 @@
           "name": "World of Warcraft",
           "title": "World of Warcraft®: Dragonflight",
           "yellowContent": [],
-          "content": "Massively Multiplayer RPG"
+          "content": "Massively Multiplayer RPG",
+          "description": "In this opening chapter of The Worldsoul Saga™️, you’ll journey through never-before-seen subterranean worlds filled with hidden wonders and lurking perils, down to the dark depths of the Nerubian empire, where the inscrutable Harbinger of the Void has gathered her arachnid forces to bring Azeroth to its knees.Deliver justice upon the servants of the Shadow, investigate the dark motives behind the Harbinger’s machinations, and take part in a thrilling new adventure spanning WoW’s next three expansions¹. Pre-purchase² World of Warcraft: The War Within and unlock a slew of benefits to aid you in your coming adventures! All editions include an Enhanced Level 70 Character Boost and the critically-acclaimed Dragonflight expansion³. In addition, the Epic Edition also guarantees Beta Access and Early Access⁴ to The War Within. All in-game items are available immediately unless otherwise noted."
         },
         {
           "id": 5,
@@ -62,7 +66,8 @@
               "contyellow": "Get the Overwatch 2: Season Seven Premium Battle Pass + 20 Tiers,Lilith Moira and Inarius Pharah Legendary Skins, 2000 OW Coins,and More!"
             }
           ],
-          "content": "Team-Based Action Game"
+          "content": "Team-Based Action Game",
+          "description": "Overwatch 2 is a hero shooter, where players are split into two teams and select a hero from a roster of 35 characters. Characters are organized into a damage class, responsible for offensive efforts; a support class, responsible for healing and buffing; and a tank class, responsible for creating space for their team. Each character has a unique set of skills, made up of active, passive, and ultimate abilities. Overwatch 2, like its predecessor, primarily centers on player versus player (PvP) combat across several different modes and maps, and includes both casual and ranked competitive matches."
         },
         {
           "id": 6,
@@ -77,7 +82,8 @@
               "contyellow": "Pre-purchase and play the Campaign up to a week early*"
             }
           ],
-          "content": "Action Shooter"
+          "content": "Action Shooter",
+          "description": "In the direct sequel to the record-breaking Call of Duty®️: Modern Warfare®️ II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before."
         },
         {
           "id": 7,
@@ -87,7 +93,8 @@
           "name": "Hearthstone",
           "title": "TITANS Packs",
           "yellowContent": [],
-          "content": "Card Packs"
+          "content": "Card Packs",
+          "description": "The power of myths and makers is in your hands with this new 145-card Hearthstone expansion, including the new Titan keyword, the new Forge keyword, the returning Magnetic keyword, and more!"
         },
         {
           "id": 8,
@@ -102,7 +109,8 @@
               "contyellow": "Free for everyone"
             }
           ],
-          "content": "Free-To-Play Action Shooter"
+          "content": "Free-To-Play Action Shooter",
+          "description": "Free for everyone. Drop in, armor up, loot for rewards and battle to be the last squad standing! Featuring the all-new Urzikstan, thrilling modes and updated gameplay features"
         }
       ]
     },
@@ -118,7 +126,8 @@
           "name": "BlizzCon",
           "title": "BlizzCon® Collection",
           "yellowContent": [],
-          "content": "In-Game Content"
+          "content": "In-Game Content",
+          "description": "Celebrate the return of BlizzCon®️ with a bountiful collection of digital goodies and in-game items.  These packs are a must-have for any player journeying through the immersive worlds of World of Warcraft®️, Diablo®️ IV, Overwatch®️ 2, Hearthstone®️ and Warcraft Rumble™️. Whether you’re a seasoned hero or just starting your adventure, don’t miss out on these iconic items and enhancements to your gameplay experience!"
         },
         {
           "id": 2,
@@ -133,7 +142,8 @@
               "contyellow": "Use coins to purchase minis,tomes of experience,talents, and more! "
             }
           ],
-          "content": "In-Game Content"
+          "content": "In-Game Content",
+          "description": "Coins are an in-game currency that can be used in Warcraft Rumble to purchase Minis, Tomes of Experience, Talents, and more.Buy bundles to wreak havoc on the battlefield. Coins are one of many ways to upgrade your army"
         },
         {
           "id": 3,
@@ -148,7 +158,8 @@
               "contyellow": "Pre-purchase and play the Campaign up to a week early*"
             }
           ],
-          "content": "Action Shooter"
+          "content": "Action Shooter",
+          "description": "In the direct sequel to the record-breaking Call of Duty®️: Modern Warfare®️ II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before."
         },
         {
           "id": 4,
@@ -163,7 +174,8 @@
               "contyellow": "Get the Overwatch 2: Season Seven Premium Battle Pass + 20 Tiers,Lilith Moira and Inarius Pharah Legendary Skins, 2000 OW Coins,and More!"
             }
           ],
-          "content": "Team-Based Action Game"
+          "content": "Team-Based Action Game",
+          "description": "Overwatch 2 is a hero shooter, where players are split into two teams and select a hero from a roster of 35 characters. Characters are organized into a damage class, responsible for offensive efforts; a support class, responsible for healing and buffing; and a tank class, responsible for creating space for their team. Each character has a unique set of skills, made up of active, passive, and ultimate abilities. Overwatch 2, like its predecessor, primarily centers on player versus player (PvP) combat across several different modes and maps, and includes both casual and ranked competitive matches."
         },
         {
           "id": 5,
@@ -178,7 +190,8 @@
               "contyellow": "Get the Premium Battle pass - featuring 90 tiers of rewards!"
             }
           ],
-          "content": "In-Game Content"
+          "content": "In-Game Content",
+          "description": "Diablo®️ IV is the ultimate action RPG experience with endless evil to slaughter, countless abilities to master, nightmarish dungeons, and legendary loot. Embark on the campaign solo or with friends, meeting memorable characters through beautifully dark settings and a gripping story, or explore an expansive end game and shared world where players can meet in towns to trade, team up to battle world bosses, or descend into PVP zones to test their skills against other players – no lobbies necessary – with cross-play and cross-progression on all available platforms."
         },
         {
           "id": 6,
@@ -188,7 +201,8 @@
           "name": "World of Warcraft",
           "title": "World of Warcraft®: Dragonflight",
           "yellowContent": [],
-          "content": "Massively Multiplayer RPG"
+          "content": "Massively Multiplayer RPG",
+          "description": "In this opening chapter of The Worldsoul Saga™️, you’ll journey through never-before-seen subterranean worlds filled with hidden wonders and lurking perils, down to the dark depths of the Nerubian empire, where the inscrutable Harbinger of the Void has gathered her arachnid forces to bring Azeroth to its knees.Deliver justice upon the servants of the Shadow, investigate the dark motives behind the Harbinger’s machinations, and take part in a thrilling new adventure spanning WoW’s next three expansions¹. Pre-purchase² World of Warcraft: The War Within and unlock a slew of benefits to aid you in your coming adventures! All editions include an Enhanced Level 70 Character Boost and the critically-acclaimed Dragonflight expansion³. In addition, the Epic Edition also guarantees Beta Access and Early Access⁴ to The War Within. All in-game items are available immediately unless otherwise noted."
         },
         {
           "id": 7,
@@ -203,7 +217,8 @@
               "contyellow": "Available through November 13, 2023"
             }
           ],
-          "content": "Card Packs"
+          "content": "Card Packs",
+          "description": "The power of myths and makers is in your hands with this new 145-card Hearthstone expansion, including the new Titan keyword, the new Forge keyword, the returning Magnetic keyword, and more!"
         },
         {
           "id": 8,
@@ -218,7 +233,8 @@
               "contyellow": "Free for everyone"
             }
           ],
-          "content": "Free-To-Play Action Shooter"
+          "content": "Free-To-Play Action Shooter",
+          "description": "Free for everyone. Drop in, armor up, loot for rewards and battle to be the last squad standing! Featuring the all-new Urzikstan, thrilling modes and updated gameplay features"
         }
       ]
     },
@@ -234,7 +250,8 @@
           "name": "BlizzCon",
           "title": "BlizzCon® Collection",
           "yellowContent": [],
-          "content": "In-Game Content"
+          "content": "In-Game Content",
+          "description": "Celebrate the return of BlizzCon®️ with a bountiful collection of digital goodies and in-game items.  These packs are a must-have for any player journeying through the immersive worlds of World of Warcraft®️, Diablo®️ IV, Overwatch®️ 2, Hearthstone®️ and Warcraft Rumble™️. Whether you’re a seasoned hero or just starting your adventure, don’t miss out on these iconic items and enhancements to your gameplay experience!"
         },
         {
           "id": 2,
@@ -249,7 +266,8 @@
               "contyellow": "Pre-purchase and play the Campaign up to a week early*"
             }
           ],
-          "content": "Action Shooter"
+          "content": "Action Shooter",
+          "description": "In the direct sequel to the record-breaking Call of Duty®️: Modern Warfare®️ II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before."
         },
         {
           "id": 3,
@@ -259,7 +277,8 @@
           "name": "Battle.net Services",
           "title": "Battle.net® Balance",
           "yellowContent": [],
-          "content": "Game Services"
+          "content": "Game Services",
+          "description": "Battle.net Balance is a different way to buy our digital products and services. Load up your balance using one of many different payment methods, then spend it on Battle.net games, services, in-game items, and more! To use your Battle.net Balance, simply select it as your payment method during the purchase process."
         },
         {
           "id": 4,
@@ -274,7 +293,8 @@
               "contyellow": "Pre-purchase and play the Campaign up to a week early*"
             }
           ],
-          "content": "Action Shooter"
+          "content": "Action Shooter",
+          "description": "In the direct sequel to the record-breaking Call of Duty®️: Modern Warfare®️ II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before."
         },
         {
           "id": 5,
@@ -289,7 +309,8 @@
               "contyellow": "Upgrade your Battle Pass & make shop purchases"
             }
           ],
-          "content": "In-Game Content"
+          "content": "In-Game Content",
+          "description": "Diablo®️ IV is the ultimate action RPG experience with endless evil to slaughter, countless abilities to master, nightmarish dungeons, and legendary loot. Embark on the campaign solo or with friends, meeting memorable characters through beautifully dark settings and a gripping story, or explore an expansive end game and shared world where players can meet in towns to trade, team up to battle world bosses, or descend into PVP zones to test their skills against other players – no lobbies necessary – with cross-play and cross-progression on all available platforms."
         },
         {
           "id": 6,
@@ -304,7 +325,8 @@
               "contyellow": "Use Overwatch Coins to Get the Premium Battle Pass and More!"
             }
           ],
-          "content": "Coins and Tokens"
+          "content": "Coins and Tokens",
+          "description": "Overwatch 2 is a hero shooter, where players are split into two teams and select a hero from a roster of 35 characters. Characters are organized into a damage class, responsible for offensive efforts; a support class, responsible for healing and buffing; and a tank class, responsible for creating space for their team. Each character has a unique set of skills, made up of active, passive, and ultimate abilities. Overwatch 2, like its predecessor, primarily centers on player versus player (PvP) combat across several different modes and maps, and includes both casual and ranked competitive matches."
         },
         {
           "id": 7,
@@ -319,7 +341,8 @@
               "contyellow": "Wrath of the Lich King Classic IS INCLUDED with your WoW Subscription."
             }
           ],
-          "content": "Game Upgrades"
+          "content": "Game Upgrades",
+          "description": "The maddened Deathwing the Destroyer erupts from his lair once again, shattering Azeroth as we know it. With Cataclysm Classic™️¹, your journey continues into the era of fire and destruction. This time, however, you’ll enjoy a much faster content cadence, improvements to Leveling, expanded Collections, and more! Cataclysm Classic will require only a WoW subscription or game time to play. However, these optional upgrades can heat up your experience during your adventures in Azeroth."
         },
         {
           "id": 8,
@@ -329,7 +352,8 @@
           "name": "Diablo IV",
           "title": "Diablo® IV: Ultimate Edition",
           "yellowContent": [],
-          "content": "Action RPG"
+          "content": "Action RPG",
+          "description": "Diablo®️ IV is the ultimate action RPG experience with endless evil to slaughter, countless abilities to master, nightmarish dungeons, and legendary loot. Embark on the campaign solo or with friends, meeting memorable characters through beautifully dark settings and a gripping story, or explore an expansive end game and shared world where players can meet in towns to trade, team up to battle world bosses, or descend into PVP zones to test their skills against other players – no lobbies necessary – with cross-play and cross-progression on all available platforms."
         }
       ]
     },
@@ -345,7 +369,8 @@
           "name": "Battle.net Services",
           "title": "Battle.net® Balance",
           "yellowContent": [],
-          "content": "Game Services"
+          "content": "Game Services",
+          "description": "Battle.net Balance is a different way to buy our digital products and services. Load up your balance using one of many different payment methods, then spend it on Battle.net games, services, in-game items, and more! To use your Battle.net Balance, simply select it as your payment method during the purchase process."
         },
         {
           "id": 2,
@@ -360,7 +385,8 @@
               "contyellow": "Pre-purchase and play the Campaign up to a week early*"
             }
           ],
-          "content": "Action Shooter"
+          "content": "Action Shooter",
+          "description": "In the direct sequel to the record-breaking Call of Duty®️: Modern Warfare®️ II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before."
         },
         {
           "id": 3,
@@ -375,7 +401,8 @@
               "contyellow": "Includes access to World of Warcraft, Wrath of the Lich King Classic, and Classic Hardcore Realms!"
             }
           ],
-          "content": "Game Services"
+          "content": "Game Services",
+          "description": "In this opening chapter of The Worldsoul Saga™️, you’ll journey through never-before-seen subterranean worlds filled with hidden wonders and lurking perils, down to the dark depths of the Nerubian empire, where the inscrutable Harbinger of the Void has gathered her arachnid forces to bring Azeroth to its knees.Deliver justice upon the servants of the Shadow, investigate the dark motives behind the Harbinger’s machinations, and take part in a thrilling new adventure spanning WoW’s next three expansions¹. Pre-purchase² World of Warcraft: The War Within and unlock a slew of benefits to aid you in your coming adventures! All editions include an Enhanced Level 70 Character Boost and the critically-acclaimed Dragonflight expansion³. In addition, the Epic Edition also guarantees Beta Access and Early Access⁴ to The War Within. All in-game items are available immediately unless otherwise noted."
         },
         {
           "id": 4,
@@ -390,7 +417,8 @@
               "contyellow": "Use Overwatch Coins to Get the Premium Battle Pass and More!"
             }
           ],
-          "content": "Coins and Tokens"
+          "content": "Coins and Tokens",
+          "description": "Overwatch 2 is a hero shooter, where players are split into two teams and select a hero from a roster of 35 characters. Characters are organized into a damage class, responsible for offensive efforts; a support class, responsible for healing and buffing; and a tank class, responsible for creating space for their team. Each character has a unique set of skills, made up of active, passive, and ultimate abilities. Overwatch 2, like its predecessor, primarily centers on player versus player (PvP) combat across several different modes and maps, and includes both casual and ranked competitive matches."
         },
         {
           "id": 5,
@@ -405,7 +433,8 @@
               "contyellow": "Pre-purchase and play the Campaign up to a week early*"
             }
           ],
-          "content": "Action Shooter"
+          "content": "Action Shooter",
+          "description": "In the direct sequel to the record-breaking Call of Duty®️: Modern Warfare®️ II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before."
         },
         {
           "id": 6,
@@ -420,7 +449,8 @@
               "contyellow": "Available for a limited time! Leaves the Shop indefinitely on October 31, 2023."
             }
           ],
-          "content": "pets"
+          "content": "pets",
+          "description": "Free for everyone. Drop in, armor up, loot for rewards and battle to be the last squad standing! Featuring the all-new Urzikstan, thrilling modes and updated gameplay features"
         },
         {
           "id": 7,
@@ -430,7 +460,8 @@
           "name": "Diablo IV",
           "title": "Diablo® IV: Ultimate Edition",
           "yellowContent": [],
-          "content": "Action RPG"
+          "content": "Action RPG",
+          "description": "Diablo®️ IV is the ultimate action RPG experience with endless evil to slaughter, countless abilities to master, nightmarish dungeons, and legendary loot. Embark on the campaign solo or with friends, meeting memorable characters through beautifully dark settings and a gripping story, or explore an expansive end game and shared world where players can meet in towns to trade, team up to battle world bosses, or descend into PVP zones to test their skills against other players – no lobbies necessary – with cross-play and cross-progression on all available platforms."
         },
         {
           "id": 8,
@@ -445,7 +476,8 @@
               "contyellow": "Free for everyone"
             }
           ],
-          "content": "In-Game Content"
+          "content": "In-Game Content",
+          "description": "Celebrate the return of BlizzCon®️ with a bountiful collection of digital goodies and in-game items.  These packs are a must-have for any player journeying through the immersive worlds of World of Warcraft®️, Diablo®️ IV, Overwatch®️ 2, Hearthstone®️ and Warcraft Rumble™️. Whether you’re a seasoned hero or just starting your adventure, don’t miss out on these iconic items and enhancements to your gameplay experience!"
         }
       ]
     }
